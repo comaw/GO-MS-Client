@@ -1,5 +1,5 @@
 {
-  "url": "http://gateway.local",
+  "url": "http://gateway-main.alpha.spheremall.net",
   "client": {
     "key": "db2",
     "pass": "root"

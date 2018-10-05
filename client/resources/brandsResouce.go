@@ -1,11 +1,11 @@
 package resources
 
 import (
-	"../../client"
-	"../interfaces"
+	"ms-client/client"
+	"ms-client/client/entities"
 )
 
-func GetBrandByid(int322 int32) interfaces.Entity {
+func GetBrandByid(int322 int32) entities.Brand {
 
 	client.GetEntityById(int322, "brands")
 
